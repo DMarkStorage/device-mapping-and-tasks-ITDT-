@@ -14,7 +14,6 @@
 - [docopt](https://github.com/docopt/docopt) - for command-line argument parsing
 - [PrettyTable](https://pypi.org/project/prettytable/) - for displaying data in a tabular format
 - Pandas - for processing and mapping data
-- ITDT (IBM Tape Diagnostic Tool) must be installed on your system.
 
 ## Installation
 
